@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Star IPTV</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #000000, #1c1c1c);
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      background-color: #00d4ff;
+      padding: 30px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3rem;
+      color: #000;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    .intro p {
+      font-size: 1.3rem;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    .plans {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 30px;
+      margin: 40px 0;
+    }
+    .plan-card {
+      background: #111;
+      border: 2px solid #00d4ff;
+      padding: 25px;
+      border-radius: 15px;
+      width: 300px;
+      box-shadow: 0 0 10px #00d4ff33;
+    }
+    .plan-card h3 {
+      margin: 0;
+      font-size: 1.5rem;
+      color: #00d4ff;
+    }
+    .plan-card p {
+      margin: 10px 0 0;
+      font-size: 1.2rem;
+    }
+    .whatsapp-btn {
+      background-color: #25D366;
+      color: white;
+      padding: 15px 30px;
+      font-size: 1.2rem;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+      display: inline-block;
+      margin-top: 30px;
+    }
+    .whatsapp-btn:hover {
+      background-color: #1ebe5d;
+    }
+    footer {
+      background: #111;
+      padding: 20px;
+      font-size: 0.9rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Star IPTV</h1>
+  </header>
+
+  <section class="intro">
+    <p>Desfrute do melhor da TV online com estabilidade, qualidade de imagem Full HD e suporte dedicado. Milhares de canais, filmes, séries e muito mais em um só lugar!</p>
+  </section>
+
+  <section class="plans">
+    <div class="plan-card">
+      <h3>Plano Mensal</h3>
+      <p>R$35,00</p>
+    </div>
+    <div class="plan-card">
+      <h3>Plano Trimestral</h3>
+      <p>R$90,00</p>
+    </div>
+    <div class="plan-card">
+      <h3>Plano Anual</h3>
+      <p>R$300,00</p>
+    </div>
+  </section>
+
+  <a
+    href="https://wa.me/5542991442272?text=Ol%C3%A1%2C%20quero%20assinar%20o%20plano%20IPTV."
+    class="whatsapp-btn"
+    target="_blank"
+  >
+    Fale conosco no WhatsApp
+  </a>
+
+  <footer>
+    &copy; 2025 Star IPTV. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
+
+
+Pronto! Agora o site da Star IPTV está completo e mais chamativo, com:
+
+Cabeçalho estilizado com a marca
+
+Descrição atraente do serviço
+
+Três planos: mensal, trimestral e anual
+
+Botão de WhatsApp destacado
+
+Rodapé com direitos autorais
+
+
+Se quiser que eu adicione ícones, depoimentos de clientes, ou mesmo um player de demonstração, é só me avisar!
+
